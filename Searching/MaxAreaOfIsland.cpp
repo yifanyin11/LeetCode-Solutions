@@ -41,5 +41,5 @@ int maxAreaOfIsland(vector<vector<int>>& grid) {
 int main(){
     vector<vector<int>> grid{{1,0,1,1,0,1,0,1},{1,0,1,1,0,1,1,1},{0,0,0,0,0,0,0,1}};
     int area = maxAreaOfIsland(grid);
-    cout << area << endl;
+    cout << "Output is " area << endl;
 }
