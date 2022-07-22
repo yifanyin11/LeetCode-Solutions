@@ -1,2 +1,2 @@
 # AlgLearn
-Learn fundamentals of algorithms by problem solving in Leetcode.
+Learn fundamentals of algorithms by problem solving on Leetcode.
